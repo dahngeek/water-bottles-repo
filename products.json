@@ -1,0 +1,97 @@
+{
+    "products": [
+        {
+            "logo": "http://via.placeholder.com/150x50",
+            "name": "Water Bottles",
+            "icon": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NDJtiLsyL._AC_SL1500_.jpg",
+            "buyLink":"https://www.amazon.com/Water-Bottles-Twist-Cap-Carabiner/dp/B08D6V88DC",
+            "hero": {
+                "headline": "Get your CUSTOM water bottle",
+                "image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71NDJtiLsyL._AC_SL1500_.jpg",
+                "leadline": "The custom printed aluminium bottle your brand needs."
+            },
+            "galleryTitle": "Choose your colors",
+            "galleryText": "Match your brand with our selection of colors",
+            "gallery": [
+                {"title":"Black","text":"Bold","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61OjNabsKSL._AC_SL1500_.jpg"},
+                {"title":"Blue","text":"Modern","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71XcShm9pgL._AC_SL1500_.jpg"},
+                {"title":"Green","text":"Eco","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71va64ppKpL._AC_SL1500_.jpg"},
+                {"title":"Silver","text":"Classic","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61GJxHO1GAL._AC_SL1500_.jpg"},
+                {"title":"Red","text":"Passion","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71ufN0-V8rL._AC_SL1500_.jpg"},
+                {"title":"White","text":"Pure","img":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61UkZPi0wxL._AC_SL1500_.jpg"}
+            ],
+            "featureBanners": [
+                "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dcb7a4ee-920e-40ae-8894-ecdca22e66ee.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+                "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a4032187-7218-45c4-b1cd-9bd2a482acf2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+                "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92d77050-1721-4d34-9cd0-97c449dd3d1b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+            ],
+            "priceTitle": "Choose your pack",
+            "prices": [
+                {
+                    "title": "10 Bottles",
+                    "description": "Some friends",
+                    "price": "$20/pack",
+                    "link": "https://www.amazon.com/Water-Bottles-Twist-Cap-Carabiner/dp/B08D6V88DC?crid=34J9D1GEUPX7V&keywords=bulk%2Bwater%2Bbottles&qid=1703951439&refinements=p_72%3A1248957011%2Cp_36%3A1253559011&rnid=386589011&s=sporting-goods&sprefix=bulk%2Bwater%2Caps%2C157&sr=1-21&th=1&linkCode=sl1&tag=thimbos-20&linkId=395948b4a16955cddbae86f2994945f4&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "title": "40 Bottles",
+                    "description": "Great team",
+                    "price": "$40/pack",
+                    "link": "https://www.amazon.com/Water-Bottles-Twist-Cap-Carabiner/dp/B08D6V88DC?crid=34J9D1GEUPX7V&keywords=bulk%2Bwater%2Bbottles&qid=1703951439&refinements=p_72%3A1248957011%2Cp_36%3A1253559011&rnid=386589011&s=sporting-goods&sprefix=bulk%2Bwater%2Caps%2C157&sr=1-21&th=1&linkCode=sl1&tag=thimbos-20&linkId=395948b4a16955cddbae86f2994945f4&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "title": "100 Bottles",
+                    "description": "Great success",
+                    "price": "$120/pack",
+                    "link": "https://www.amazon.com/Water-Bottles-Twist-Cap-Carabiner/dp/B08D6V88DC?crid=34J9D1GEUPX7V&keywords=bulk%2Bwater%2Bbottles&qid=1703951439&refinements=p_72%3A1248957011%2Cp_36%3A1253559011&rnid=386589011&s=sporting-goods&sprefix=bulk%2Bwater%2Caps%2C157&sr=1-21&th=1&linkCode=sl1&tag=thimbos-20&linkId=395948b4a16955cddbae86f2994945f4&language=en_US&ref_=as_li_ss_tl"
+                }
+            ],
+            "faqs": [{
+                "question": "What materials is this made of?",
+                "answer": "Bottles are made of aluminium"
+            },
+            {
+                "question": "What materials is this made of?",
+                "answer": "Bottles are made of aluminium"
+            },
+            {
+                "question": "What materials is this made of?",
+                "answer": "Bottles are made of aluminium"
+            }
+            ],
+            "CTAText": "Ready to improve your brand? Buy now!",
+            "CTADescription": "Limited time offer",
+            "footer": {
+                "slogan": "Your own bottles",
+                "socials": {
+                    "facebook": "#",
+                    "twitter": "#",
+                    "linkedin": "",
+                    "instagram": "#"
+                },
+                "columns": [
+                    {
+                        "title": "About",
+                        "links": [
+                            {
+                                "name": "Company",
+                                "link": "#"
+                            },
+                            {
+                                "name": "Careers",
+                                "link": "#"
+                            },
+                            {
+                                "name": "Blog",
+                                "link": "#"
+                            }
+                        ]
+                    }
+                ],
+                "copyright": "© 2020 All rights reserved"
+            }
+        },
+        {"name": "Asf World",
+        "icon": "https://i.ibb.co/Smq7sZK/2021-11-07-13h26-50.png"}
+    ]
+}
